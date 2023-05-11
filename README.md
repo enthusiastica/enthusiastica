@@ -8,18 +8,18 @@
 
 <br>
 <p align="center">
-  Hi, I'm William, Wang, a Dedicated and efficient full stack developer with 5 years experience in application layers, presentation layers, and databases. I am from Canada.
+  Hi, I'm William, Wang, a Motivated and skilled software developer, with over five years of experience in developing innovative digital solutions. I am from Hong Kong.
   <br>
   <br>
   🔬 I'm currently working at Memrise on Remote.
   <br>
-  🎓 I graduated from B.S. Computer Science from Durham College.
+  🎓 I graduated from B.S. Computer Science from .
   <br>
   💻 I love writing code and learn anythings about it, enjoy working on Remote.
   <br>
   📚 I’m currently learning how to deal with CI/CD pipelines.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/enthsiastic/enthsiastic/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/enthusiastica/enthusiastica/issues" title="Issues">Here</a>
 </p>
 
 <hr>
