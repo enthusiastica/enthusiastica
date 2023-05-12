@@ -11,7 +11,7 @@
   Hi, I'm William, Wang, a Motivated and skilled software developer, with over five years of experience in developing innovative digital solutions. I am from Hong Kong.
   <br>
   <br>
-  🔬 I'm currently working at Memrise on Remote.
+  🔬 I'm currently working on Remote.
   <br>
   🎓 I graduated from B.S. Computer Science from .
   <br>
