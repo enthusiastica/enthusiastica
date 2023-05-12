@@ -13,7 +13,7 @@
   <br>
   🔬 I'm currently working on Remote.
   <br>
-  🎓 I graduated from B.S. Computer Science from .
+  🎓 I graduated from B.S. Computer Science from the Hong Kong University of Science and Technology.
   <br>
   💻 I love writing code and learn anythings about it, enjoy working on Remote.
   <br>
