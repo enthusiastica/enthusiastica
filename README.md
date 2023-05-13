@@ -8,16 +8,16 @@
 
 <br>
 <p align="center">
-  Hi, I'm William, Wang, a Motivated and skilled software developer, with over five years of experience in developing innovative digital solutions. I am from Hong Kong.
+  Hi, I'm William, Wang, a high motivated and skilled software developer, with over five years of experience in developing innovative digital solutions.
   <br>
   <br>
   🔬 I'm currently working on Remote.
   <br>
-  🎓 I graduated from B.S. Computer Science from the Hong Kong University of Science and Technology.
+  🎓 I graduated from B.S. Computer Science.
   <br>
   💻 I love writing code and learn anythings about it, enjoy working on Remote.
   <br>
-  📚 I’m currently learning how to deal with CI/CD pipelines.
+  📚 I’m very familiarized with CI/CD pipelines.
   <br>
   💬 Ask me anything about from <a href="https://github.com/enthusiastica/enthusiastica/issues" title="Issues">Here</a>
 </p>
