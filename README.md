@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+William+Wang..;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm William, Wang, a high motivated and skilled software developer, with over five years of experience in developing innovative digital solutions.
+  Hi, a high motivated and skilled software developer, with over five years of experience in developing innovative digital solutions.
   <br>
   <br>
   🔬 I'm currently working on Remote.
